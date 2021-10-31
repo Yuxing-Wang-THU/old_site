@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://Yuxing-Wang-THU.github.io/sitemap.xml
