@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>教程 | Academic</title>
-    <link>https://yuxing-wang-thu.github.io/category/%E6%95%99%E7%A8%8B/</link>
-      <atom:link href="https://yuxing-wang-thu.github.io/category/%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
-    <description>教程</description>
+    <title>吳恩達 | Academic</title>
+    <link>https://yuxing-wang-thu.github.io/authors/%E5%90%B3%E6%81%A9%E9%81%94/</link>
+      <atom:link href="https://yuxing-wang-thu.github.io/authors/%E5%90%B3%E6%81%A9%E9%81%94/index.xml" rel="self" type="application/rss+xml" />
+    <description>吳恩達</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yuxing-wang-thu.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>教程</title>
-      <link>https://yuxing-wang-thu.github.io/category/%E6%95%99%E7%A8%8B/</link>
+      <title>吳恩達</title>
+      <link>https://yuxing-wang-thu.github.io/authors/%E5%90%B3%E6%81%A9%E9%81%94/</link>
     </image>
     
     <item>

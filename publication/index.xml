@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Academic</title>
-    <link>https://Yuxing-Wang-THU.github.io/publication/</link>
-      <atom:link href="https://Yuxing-Wang-THU.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yuxing-wang-thu.github.io/publication/</link>
+      <atom:link href="https://yuxing-wang-thu.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://Yuxing-Wang-THU.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://yuxing-wang-thu.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>https://Yuxing-Wang-THU.github.io/publication/</link>
+      <link>https://yuxing-wang-thu.github.io/publication/</link>
     </image>
     
     <item>
       <title>An example conference paper</title>
-      <link>https://Yuxing-Wang-THU.github.io/publication/example/</link>
+      <link>https://yuxing-wang-thu.github.io/publication/example/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://Yuxing-Wang-THU.github.io/publication/example/</guid>
+      <guid>https://yuxing-wang-thu.github.io/publication/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

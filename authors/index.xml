@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Academic</title>
-    <link>https://yuxing-wang-thu.github.io/tags/</link>
-      <atom:link href="https://yuxing-wang-thu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tags</description>
+    <title>Yuxing Wang（王昱兴） | Academic</title>
+    <link>https://yuxing-wang-thu.github.io/authors/</link>
+      <atom:link href="https://yuxing-wang-thu.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuxing Wang（王昱兴）</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yuxing-wang-thu.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Tags</title>
-      <link>https://yuxing-wang-thu.github.io/tags/</link>
+      <title>Yuxing Wang（王昱兴）</title>
+      <link>https://yuxing-wang-thu.github.io/authors/</link>
     </image>
     
   </channel>
