@@ -110,6 +110,71 @@
     </item>
     
     <item>
+      <title>A Surrogate-Assisted Controller for Expensive Evolutionary Reinforcement Learning</title>
+      <link>https://yuxing-wang-thu.github.io/publication/serl/</link>
+      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://yuxing-wang-thu.github.io/publication/serl/</guid>
+      <description>&lt;p&gt;A HalfCheetah agent trained by SPDEL-I with average performance of 14000 points over 50 test seeds. The agent is able to adjust its posture more appropriately and run faster.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;https://yuxing-wang-thu.github.io/media/2.HalfCheetah_trained_by_SPDERL-I_14000.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;p&gt;A Hopper agent trained by SPDEL-I with average performance of 4100 points over 50 test seeds. The agent jumps faster and learns to better stabilize the center of gravity.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;https://yuxing-wang-thu.github.io/media/3.Hopper_trained_by_SPDERL-I_4100.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;p&gt;A Walker agent trained by SPDEL-G with average performance of 9000 points over 50 test seeds. The agent learns to walk with only one leg and use the other leg to maintain balance.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;https://yuxing-wang-thu.github.io/media/6.Walker_trained_by_SPDERL-G_9000.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+</description>
+    </item>
+    
+    <item>
       <title>From Big Data Based Price Discrimination to Privacy Leakage: Ethical Analysis and Reflections on Privacy Issues from the Perspective of Hardware and Software</title>
       <link>https://yuxing-wang-thu.github.io/publication/dataethics/</link>
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
