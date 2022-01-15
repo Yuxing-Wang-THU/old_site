@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Academic</title>
-    <link>https://yuxing-wang-thu.github.io/project/</link>
-      <atom:link href="https://yuxing-wang-thu.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://Yuxing-Wang.github.io/project/</link>
+      <atom:link href="https://Yuxing-Wang.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yuxing-wang-thu.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://Yuxing-Wang.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://yuxing-wang-thu.github.io/project/</link>
+      <link>https://Yuxing-Wang.github.io/project/</link>
     </image>
     
     <item>
       <title>A wearable hand rehabilitation robot</title>
-      <link>https://yuxing-wang-thu.github.io/project/hand/</link>
+      <link>https://Yuxing-Wang.github.io/project/hand/</link>
       <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://yuxing-wang-thu.github.io/project/hand/</guid>
+      <guid>https://Yuxing-Wang.github.io/project/hand/</guid>
       <description>&lt;p&gt;In this project, we design a wearable hand rehabilitation robot system, which consists of a data glove, a manipulator and an APP. Through the somatosensory interaction, which allows the patient to use a healthy hand to operate the rehabilitation glove, thus controlling the robot to drive the disabled hand to reproduce its movements, and at the same time, combined with the rehabilitation programme customised by professional physicians integrated in the APP, can provide corresponding rehabilitation training for different degrees of disability, with the rehabilitation glove as the main body and the APP as a supplement, together controlling the robot to drive the paralysed hand to reproduce its movements. It stimulates the residual muscle strength of the hand, enhances joint flexibility and plays a rehabilitative role.&lt;/p&gt;
 &lt;p&gt;A short vedio&lt;/p&gt;
 
@@ -35,16 +35,16 @@
 
 
 &lt;video controls  &gt;
-  &lt;source src=&#34;https://yuxing-wang-thu.github.io/media/my_video.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;source src=&#34;https://Yuxing-Wang.github.io/media/my_video.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 </description>
     </item>
     
     <item>
       <title>International Underwater Robot Competition</title>
-      <link>https://yuxing-wang-thu.github.io/project/fish/</link>
+      <link>https://Yuxing-Wang.github.io/project/fish/</link>
       <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://yuxing-wang-thu.github.io/project/fish/</guid>
+      <guid>https://Yuxing-Wang.github.io/project/fish/</guid>
       <description>&lt;p&gt;In this project, we design a wearable hand rehabilitation robot system, which consists of a data glove, a manipulator and an APP. Through the somatosensory interaction, which allows the patient to use a healthy hand to operate the rehabilitation glove, thus controlling the robot to drive the disabled hand to reproduce its movements, and at the same time, combined with the rehabilitation programme customised by professional physicians integrated in the APP, can provide corresponding rehabilitation training for different degrees of disability, with the rehabilitation glove as the main body and the APP as a supplement, together controlling the robot to drive the paralysed hand to reproduce its movements. It stimulates the residual muscle strength of the hand, enhances joint flexibility and plays a rehabilitative role.&lt;/p&gt;
 &lt;p&gt;A short vedio&lt;/p&gt;
 
@@ -63,7 +63,7 @@
 
 
 &lt;video controls  &gt;
-  &lt;source src=&#34;https://yuxing-wang-thu.github.io/media/my_video.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;source src=&#34;https://Yuxing-Wang.github.io/media/my_video.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 </description>
     </item>
