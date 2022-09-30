@@ -17,7 +17,7 @@
       <link>https://Yuxing-Wang-THU.github.io/project/hand/</link>
       <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://Yuxing-Wang-THU.github.io/project/hand/</guid>
-      <description>&lt;p&gt;In this project, we design a wearable hand rehabilitation robot system, which consists of a data glove, a manipulator and an APP. Through the somatosensory interaction, which allows the patient to use a healthy hand to operate the rehabilitation glove, thus controlling the robot to drive the disabled hand to reproduce its movements, and at the same time, combined with the rehabilitation programme customised by professional physicians integrated in the APP, can provide corresponding rehabilitation training for different degrees of disability, with the rehabilitation glove as the main body and the APP as a supplement, together controlling the robot to drive the paralysed hand to reproduce its movements. It stimulates the residual muscle strength of the hand, enhances joint flexibility and plays a rehabilitative role.&lt;/p&gt;
+      <description>&lt;p&gt;In this project, we design a wearable hand rehabilitation robot, which consists of a data glove, a manipulator and an APP. The somatosensory interaction allows the patient to use a healthy hand to operate the rehabilitation glove, thus controlling the robot to drive the disabled hand to reproduce its movements. At the same time, combined with the rehabilitation program customized by professional physicians integrated into the APP, can provide corresponding rehabilitation training for different degrees of disability.&lt;/p&gt;
 &lt;p&gt;Here is a short vedio&lt;/p&gt;
 
 
@@ -45,8 +45,203 @@
       <link>https://Yuxing-Wang-THU.github.io/project/evolutionary_arts/</link>
       <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://Yuxing-Wang-THU.github.io/project/evolutionary_arts/</guid>
-      <description>&lt;p&gt;In this project, we design a wearable hand rehabilitation robot system, which consists of a data glove, a manipulator and an APP. Through the somatosensory interaction, which allows the patient to use a healthy hand to operate the rehabilitation glove, thus controlling the robot to drive the disabled hand to reproduce its movements, and at the same time, combined with the rehabilitation programme customised by professional physicians integrated in the APP, can provide corresponding rehabilitation training for different degrees of disability, with the rehabilitation glove as the main body and the APP as a supplement, together controlling the robot to drive the paralysed hand to reproduce its movements. It stimulates the residual muscle strength of the hand, enhances joint flexibility and plays a rehabilitative role.&lt;/p&gt;
-&lt;p&gt;A short vedio&lt;/p&gt;
+      <description>&lt;p&gt;Using Compositional Pattern-Producing Network(CPPN) to generate pictures, very funny. (here is the code: &lt;a href=&#34;https://github.com/Yuxing-Wang-THU/Evolutionary-Arts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/Yuxing-Wang-THU/Evolutionary-Arts&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/evolutionary_arts/a_hu10332d6ec3a754b8b8cfac83b926b1f2_26704_a55a3e289d74dd219c0bc5193d382472.jpg 400w,
+               /project/evolutionary_arts/a_hu10332d6ec3a754b8b8cfac83b926b1f2_26704_d5a85f11e81fa636fb05230119bea761.jpg 760w,
+               /project/evolutionary_arts/a_hu10332d6ec3a754b8b8cfac83b926b1f2_26704_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://Yuxing-Wang-THU.github.io/project/evolutionary_arts/a_hu10332d6ec3a754b8b8cfac83b926b1f2_26704_a55a3e289d74dd219c0bc5193d382472.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/evolutionary_arts/b_hu39c428bcc29877a80a46cb34eac21bae_38293_4cb07847623e14b6652dbdd41f8828b5.jpg 400w,
+               /project/evolutionary_arts/b_hu39c428bcc29877a80a46cb34eac21bae_38293_0308405e7647a05f38a4f4d765e48546.jpg 760w,
+               /project/evolutionary_arts/b_hu39c428bcc29877a80a46cb34eac21bae_38293_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://Yuxing-Wang-THU.github.io/project/evolutionary_arts/b_hu39c428bcc29877a80a46cb34eac21bae_38293_4cb07847623e14b6652dbdd41f8828b5.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/evolutionary_arts/c_hu28bee01178a13f6a332b6bab82fe4320_40159_ab2ad65a0b999e2b975c3e20f7eab211.jpg 400w,
+               /project/evolutionary_arts/c_hu28bee01178a13f6a332b6bab82fe4320_40159_b97c77ac052d61906e3c1e404a039f2d.jpg 760w,
+               /project/evolutionary_arts/c_hu28bee01178a13f6a332b6bab82fe4320_40159_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://Yuxing-Wang-THU.github.io/project/evolutionary_arts/c_hu28bee01178a13f6a332b6bab82fe4320_40159_ab2ad65a0b999e2b975c3e20f7eab211.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/evolutionary_arts/d_hu656cc3699bc6a25c8e0dea527ac50132_106737_28dd5536ec9e84337563c8970bd68b3e.jpg 400w,
+               /project/evolutionary_arts/d_hu656cc3699bc6a25c8e0dea527ac50132_106737_79923bd42492c8736b615cbdd6e95cd6.jpg 760w,
+               /project/evolutionary_arts/d_hu656cc3699bc6a25c8e0dea527ac50132_106737_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://Yuxing-Wang-THU.github.io/project/evolutionary_arts/d_hu656cc3699bc6a25c8e0dea527ac50132_106737_28dd5536ec9e84337563c8970bd68b3e.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/evolutionary_arts/e_hu2568418f64e513215520ef1ac53d0693_113338_5092de113907a9f459db65e337f383b0.jpg 400w,
+               /project/evolutionary_arts/e_hu2568418f64e513215520ef1ac53d0693_113338_30581c73e35ad90414354ed434c68124.jpg 760w,
+               /project/evolutionary_arts/e_hu2568418f64e513215520ef1ac53d0693_113338_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://Yuxing-Wang-THU.github.io/project/evolutionary_arts/e_hu2568418f64e513215520ef1ac53d0693_113338_5092de113907a9f459db65e337f383b0.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/evolutionary_arts/f_hufd03d26cfd97fa27e8837c25d1fbbb5e_148623_8f446c048d8088a0e67466a53613d08f.jpg 400w,
+               /project/evolutionary_arts/f_hufd03d26cfd97fa27e8837c25d1fbbb5e_148623_09d1257d318c2445f6e991a58ad01b4a.jpg 760w,
+               /project/evolutionary_arts/f_hufd03d26cfd97fa27e8837c25d1fbbb5e_148623_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://Yuxing-Wang-THU.github.io/project/evolutionary_arts/f_hufd03d26cfd97fa27e8837c25d1fbbb5e_148623_8f446c048d8088a0e67466a53613d08f.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/evolutionary_arts/g_hue4f9ebd7b3f226ba07b620bdec68bafc_182563_d5222d556a59a30f912c52dcd9ba8adc.jpg 400w,
+               /project/evolutionary_arts/g_hue4f9ebd7b3f226ba07b620bdec68bafc_182563_be476563b1e4ab398389aeadf12aa948.jpg 760w,
+               /project/evolutionary_arts/g_hue4f9ebd7b3f226ba07b620bdec68bafc_182563_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://Yuxing-Wang-THU.github.io/project/evolutionary_arts/g_hue4f9ebd7b3f226ba07b620bdec68bafc_182563_d5222d556a59a30f912c52dcd9ba8adc.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -55,8 +250,8 @@
       <link>https://Yuxing-Wang-THU.github.io/project/fish/</link>
       <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://Yuxing-Wang-THU.github.io/project/fish/</guid>
-      <description>&lt;p&gt;In this project, we design a wearable hand rehabilitation robot system, which consists of a data glove, a manipulator and an APP. Through the somatosensory interaction, which allows the patient to use a healthy hand to operate the rehabilitation glove, thus controlling the robot to drive the disabled hand to reproduce its movements, and at the same time, combined with the rehabilitation programme customised by professional physicians integrated in the APP, can provide corresponding rehabilitation training for different degrees of disability, with the rehabilitation glove as the main body and the APP as a supplement, together controlling the robot to drive the paralysed hand to reproduce its movements. It stimulates the residual muscle strength of the hand, enhances joint flexibility and plays a rehabilitative role.&lt;/p&gt;
-&lt;p&gt;A short vedio&lt;/p&gt;
+      <description>&lt;p&gt;The International Underwater Robot Competition is an international contest sponsored by the International League of Underwater Robots (ILUR) supported by both the UNESCO Industry-University Cooperative Education &amp;amp; the Ministry of Education’s Innovative Education Method Steering Committee.&lt;/p&gt;
+&lt;p&gt;
 
 
 
@@ -66,15 +261,24 @@
 
 
 
-  
 
 
 
 
 
-&lt;video controls  &gt;
-  &lt;source src=&#34;https://Yuxing-Wang-THU.github.io/media/my_video.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/fish/a_hu2a59f4221fa98871edf32d6c81fab823_2588920_bbfa99f45ce8a9a747dd6074762af120.png 400w,
+               /project/fish/a_hu2a59f4221fa98871edf32d6c81fab823_2588920_d8de781cf4af8b5da61198ac63f836a9.png 760w,
+               /project/fish/a_hu2a59f4221fa98871edf32d6c81fab823_2588920_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://Yuxing-Wang-THU.github.io/project/fish/a_hu2a59f4221fa98871edf32d6c81fab823_2588920_bbfa99f45ce8a9a747dd6074762af120.png&#34;
+               width=&#34;760&#34;
+               height=&#34;426&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
