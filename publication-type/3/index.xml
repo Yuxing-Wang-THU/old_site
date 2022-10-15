@@ -14,18 +14,18 @@
     
     <item>
       <title>Dynamics-Adaptive Continual Reinforcement Learning via Progressive Contextualization</title>
-      <link>https://Yuxing-Wang-THU.github.io/publication/b/</link>
+      <link>https://Yuxing-Wang-THU.github.io/publication/dacorl/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://Yuxing-Wang-THU.github.io/publication/b/</guid>
+      <guid>https://Yuxing-Wang-THU.github.io/publication/dacorl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Surrogate-Assisted Controller for Expensive Evolutionary Reinforcement Learning</title>
-      <link>https://Yuxing-Wang-THU.github.io/publication/a/</link>
+      <link>https://Yuxing-Wang-THU.github.io/publication/serl/</link>
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://Yuxing-Wang-THU.github.io/publication/a/</guid>
-      <description>&lt;p&gt;A HalfCheetah agent trained by SPDERL-I with average performance of 14000 points over 50 test seeds. The agent is able to adjust its posture more appropriately and run faster.&lt;/p&gt;
+      <guid>https://Yuxing-Wang-THU.github.io/publication/serl/</guid>
+      <description>&lt;p style=&#34;text-align:justify&#34;;&gt;A HalfCheetah agent trained by SPDERL-I with average performance of 14000 points over 50 test seeds. The agent is able to adjust its posture more appropriately and run faster.&lt;/p&gt;
 
 
 
@@ -44,7 +44,7 @@
 &lt;video controls  &gt;
   &lt;source src=&#34;https://Yuxing-Wang-THU.github.io/media/2.HalfCheetah_trained_by_SPDERL-I_14000.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
-&lt;p&gt;A Hopper agent trained by SPDERL-I with average performance of 4100 points over 50 test seeds. The agent jumps faster and learns to better stabilize the center of gravity.&lt;/p&gt;
+&lt;p style=&#34;text-align:justify&#34;;&gt;A Hopper agent trained by SPDERL-I with average performance of 4100 points over 50 test seeds. The agent jumps faster and learns to better stabilize the center of gravity.&lt;/p&gt;
 
 
 
@@ -63,7 +63,7 @@
 &lt;video controls  &gt;
   &lt;source src=&#34;https://Yuxing-Wang-THU.github.io/media/3.Hopper_trained_by_SPDERL-I_4100.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
-&lt;p&gt;A Walker agent trained by SPDERL-G with average performance of 9000 points over 50 test seeds. The agent learns to walk with only one leg and use the other leg to maintain balance.&lt;/p&gt;
+&lt;p style=&#34;text-align:justify&#34;;&gt;A Walker agent trained by SPDERL-G with average performance of 9000 points over 50 test seeds. The agent learns to walk with only one leg and use the other leg to maintain balance.&lt;/p&gt;
 
 
 
@@ -87,10 +87,12 @@
     
     <item>
       <title>Curriculum-based Co-design of Morphology and Control of Voxel-based Soft Robots</title>
-      <link>https://Yuxing-Wang-THU.github.io/publication/d/</link>
+      <link>https://Yuxing-Wang-THU.github.io/publication/cuco/</link>
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://Yuxing-Wang-THU.github.io/publication/d/</guid>
-      <description>&lt;p&gt;
+      <guid>https://Yuxing-Wang-THU.github.io/publication/cuco/</guid>
+      <description>&lt;p style=&#34;text-align:justify&#34;;&gt; Visualization of converged morphologies of all methods in the Pusher environment across
+three different runs. Below each VSR is its average performance.&lt;/p&gt;
+&lt;p&gt;
 
 
 
@@ -110,8 +112,9 @@
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./CuCo2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-
-
+&lt;/p&gt;
+&lt;p style=&#34;text-align:justify&#34;;&gt; Visualization of CuCo’s learning process in UpStepper and Pusher. The x-axis represents the number of policy iterations and the y-axis represents the curriculum. We show morphologies in the stage from left to right.&lt;/p&gt;
+&lt;p&gt;
 
 
 
@@ -132,7 +135,7 @@
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./CuCo3.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;A short video&lt;/p&gt;
+&lt;p&gt;Here is a short video&lt;/p&gt;
 
 
 
