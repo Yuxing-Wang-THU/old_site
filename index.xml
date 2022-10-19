@@ -5,7 +5,7 @@
     <link>https://Yuxing-Wang-THU.github.io/</link>
       <atom:link href="https://Yuxing-Wang-THU.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Yuxing Wang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Yuxing-Wang-THU.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Yuxing Wang</title>
@@ -13,82 +13,9 @@
     </image>
     
     <item>
-      <title>Dynamics-Adaptive Continual Reinforcement Learning via Progressive Contextualization</title>
-      <link>https://Yuxing-Wang-THU.github.io/publication/dacorl/</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://Yuxing-Wang-THU.github.io/publication/dacorl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Surrogate-Assisted Controller for Expensive Evolutionary Reinforcement Learning</title>
-      <link>https://Yuxing-Wang-THU.github.io/publication/serl/</link>
-      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://Yuxing-Wang-THU.github.io/publication/serl/</guid>
-      <description>&lt;p style=&#34;text-align:justify&#34;;&gt;A HalfCheetah agent trained by SPDERL-I with average performance of 14000 points over 50 test seeds. The agent is able to adjust its posture more appropriately and run faster.&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-&lt;video controls  &gt;
-  &lt;source src=&#34;https://Yuxing-Wang-THU.github.io/media/2.HalfCheetah_trained_by_SPDERL-I_14000.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;
-&lt;p style=&#34;text-align:justify&#34;;&gt;A Hopper agent trained by SPDERL-I with average performance of 4100 points over 50 test seeds. The agent jumps faster and learns to better stabilize the center of gravity.&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-&lt;video controls  &gt;
-  &lt;source src=&#34;https://Yuxing-Wang-THU.github.io/media/3.Hopper_trained_by_SPDERL-I_4100.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;
-&lt;p style=&#34;text-align:justify&#34;;&gt;A Walker agent trained by SPDERL-G with average performance of 9000 points over 50 test seeds. The agent learns to walk with only one leg and use the other leg to maintain balance.&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-&lt;video controls  &gt;
-  &lt;source src=&#34;https://Yuxing-Wang-THU.github.io/media/6.Walker_trained_by_SPDERL-G_9000.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Curriculum-based Co-design of Morphology and Control of Voxel-based Soft Robots</title>
       <link>https://Yuxing-Wang-THU.github.io/publication/cuco/</link>
-      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://Yuxing-Wang-THU.github.io/publication/cuco/</guid>
       <description>&lt;p style=&#34;text-align:justify&#34;;&gt; Visualization of converged morphologies of all methods in the Pusher environment across
 three different runs. Below each VSR is its average performance.&lt;/p&gt;
@@ -158,20 +85,232 @@ three different runs. Below each VSR is its average performance.&lt;/p&gt;
     </item>
     
     <item>
-      <title>From Big Data Based Price Discrimination to Privacy Leakage: Ethical Analysis and Reflections on Privacy Issues from the Perspective of Hardware and Software</title>
-      <link>https://Yuxing-Wang-THU.github.io/publication/dataethics/</link>
-      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://Yuxing-Wang-THU.github.io/publication/dataethics/</guid>
+      <title>ModularEvoGym</title>
+      <link>https://Yuxing-Wang-THU.github.io/project/modularevogym/</link>
+      <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://Yuxing-Wang-THU.github.io/project/modularevogym/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./robot.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p style=&#34;text-align:justify&#34;;&gt; ModularEvoGym [1] is based on Evolution Gym [2], a large-scale benchmark for co-optimizing the design and control of Voxel-based Soft Robots (VSRs). We modified the original state representation to formulate a new modular observation space. The input state of the robot at time step $t$ is represented as $s_{t}^{c}=\lbrace s_{t}^{v},s_{t}^{g}\rbrace$, where $s_{t}^{v}=\lbrace s_{t}^{v_{1}}, s_{t}^{v_{2}},...,s_{t}^{v_N}\rbrace$, $s_{t}^{v_i}$ is composed of each voxel&#39;s local information which contains the relative position of its four corners with respect to the center of mass of the robot and its material information (e.g., &lt;b&gt;&lt;font color=Gray&gt;soft voxel&lt;/font&gt;&lt;/b&gt;, &lt;b&gt;rigid voxel&lt;/b&gt;, &lt;b&gt;&lt;font color=Darkorange&gt;horizontal actuator&lt;/font&gt;&lt;/b&gt; and &lt;b&gt;&lt;font color=DeepSkyBlue&gt;vertical actuator&lt;/font&gt;&lt;/b&gt;). $s_{t}^{g}$ is the task-related observation such as terrain information of the environment and goal-relevant information. During the simulation, voxels (except empty voxels) only sense locally, and based on the input sensory information, a controller outputs control signals to vary the volume of actuator voxels. The morphology of the robot is unchangeable during the interaction with the environment. &lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./robot2.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p style=&#34;text-align:justify&#34;;&gt; With the support of ModularEvoGym, we can do many interesting things. We modeled the local observations of all voxels as a sequence and adopted the self-attention mechanism [3] to develop a more efficient controller (shown below) that handles incompatible state-action spaces. This controller can be trained by popular Reinforcement Learning algorithms (e.g., PPO [4]) to simultaneously control a variety of robot morphologies.&lt;/p&gt; 
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./controller.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p style=&#34;text-align:justify&#34;;&gt; For encoding a VSR&#39;s morphology, apart from using methods such as direct encoding and Compositional Pattern Producing Network (CPPN) [5], which rely on having access to the whole design space, we provided another choice, Neural Cellular Automata (NCA) [6], which takes multiple actions to grow a robot from an initial seed (morphology), as shown below. NCA encodes complex patterns in a neural network and generates different developmental outcomes while using a smaller set of trainable parameters.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./design.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Built upon the aforementioned successes, we also presented an efficient Curriculum-based Co-design (CuCo) method for learning to design and control VSRs through an easy-to-difficult process [7]. The following pictures show a developmental process of a walker agent. For more details, please refer to &lt;a href=&#34;https://yuxing-wang-thu.github.io/publication/cuco/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CuCo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;$3 \times 3$ design space, $9$ voxels.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./1.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+$5 \times 5$ design space, $25$ voxels.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./2.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+$7 \times 7$ design space, $49$ voxels.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./3.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+$9 \times 9$ design space, $81$ voxels.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./4.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+$11 \times 11$ design space, $121$ voxels.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./5.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;[1] &lt;a href=&#34;https://github.com/Yuxing-Wang-THU/ModularEvoGym&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ModularEvoGym (Coming Soon)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[2] &lt;a href=&#34;https://evolutiongym.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Evolution Gym: A Large-Scale Benchmark for Evolving Soft Robots&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[3] &lt;a href=&#34;https://arxiv.org/abs/1706.03762&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Attention Is All You Need&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[4] &lt;a href=&#34;https://arxiv.org/abs/1707.06347&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Proximal Policy Optimization Algorithms&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[5] &lt;a href=&#34;https://link.springer.com/article/10.1007/s10710-007-9028-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Compositional Pattern Producing Network&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[6] &lt;a href=&#34;https://distill.pub/2020/growing-ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Neural Cellular Automata&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[7] &lt;a href=&#34;https://yuxing-wang-thu.github.io/publication/cuco/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Curriculum-based Co-design of Morphology and Control of Voxel-based Soft Robots&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dynamics-Adaptive Continual Reinforcement Learning via Progressive Contextualization</title>
+      <link>https://Yuxing-Wang-THU.github.io/publication/dacorl/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://Yuxing-Wang-THU.github.io/publication/dacorl/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A wearable hand rehabilitation robot</title>
-      <link>https://Yuxing-Wang-THU.github.io/project/hand/</link>
-      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://Yuxing-Wang-THU.github.io/project/hand/</guid>
-      <description>&lt;p style=&#34;text-align:justify&#34;;&gt; In this project, we design a wearable hand rehabilitation robot, which consists of a data glove, a manipulator and an APP. This system allows the patient to use a healthy hand to operate the rehabilitation glove, thus controlling the robot to drive the disabled hand to reproduce its movements. At the same time, combined with the rehabilitation program customized by professional physicians integrated into the APP, the system can provide corresponding rehabilitation training for different degrees of disability.&lt;/p&gt;
-&lt;p&gt;Here is a short vedio&lt;/p&gt;
+      <title>A Surrogate-Assisted Controller for Expensive Evolutionary Reinforcement Learning</title>
+      <link>https://Yuxing-Wang-THU.github.io/publication/serl/</link>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://Yuxing-Wang-THU.github.io/publication/serl/</guid>
+      <description>&lt;p style=&#34;text-align:justify&#34;;&gt;A HalfCheetah agent trained by SPDERL-I with average performance of 14000 points over 50 test seeds. The agent is able to adjust its posture more appropriately and run faster.&lt;/p&gt;
 
 
 
@@ -188,15 +327,61 @@ three different runs. Below each VSR is its average performance.&lt;/p&gt;
 
 
 &lt;video controls  &gt;
-  &lt;source src=&#34;https://Yuxing-Wang-THU.github.io/media/my_video.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;source src=&#34;https://Yuxing-Wang-THU.github.io/media/2.HalfCheetah_trained_by_SPDERL-I_14000.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;p style=&#34;text-align:justify&#34;;&gt;A Hopper agent trained by SPDERL-I with average performance of 4100 points over 50 test seeds. The agent jumps faster and learns to better stabilize the center of gravity.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;https://Yuxing-Wang-THU.github.io/media/3.Hopper_trained_by_SPDERL-I_4100.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;p style=&#34;text-align:justify&#34;;&gt;A Walker agent trained by SPDERL-G with average performance of 9000 points over 50 test seeds. The agent learns to walk with only one leg and use the other leg to maintain balance.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;https://Yuxing-Wang-THU.github.io/media/6.Walker_trained_by_SPDERL-G_9000.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 </description>
     </item>
     
     <item>
+      <title>From Big Data Based Price Discrimination to Privacy Leakage: Ethical Analysis and Reflections on Privacy Issues from the Perspective of Hardware and Software</title>
+      <link>https://Yuxing-Wang-THU.github.io/publication/dataethics/</link>
+      <pubDate>Sun, 03 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://Yuxing-Wang-THU.github.io/publication/dataethics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Evolutionary Arts</title>
       <link>https://Yuxing-Wang-THU.github.io/project/evolutionary_arts/</link>
-      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://Yuxing-Wang-THU.github.io/project/evolutionary_arts/</guid>
       <description>&lt;p style=&#34;text-align:justify&#34;;&gt;Using Compositional Pattern-Producing Network(CPPN) to generate pictures, very funny. (here is the code: https://github.com/Yuxing-Wang-THU/Evolutionary-Arts)&lt;/p&gt;
 &lt;p&gt;
@@ -401,7 +586,7 @@ three different runs. Below each VSR is its average performance.&lt;/p&gt;
     <item>
       <title>International Underwater Robot Competition</title>
       <link>https://Yuxing-Wang-THU.github.io/project/fish/</link>
-      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://Yuxing-Wang-THU.github.io/project/fish/</guid>
       <description>&lt;p style=&#34;text-align:justify&#34;;&gt;The International Underwater Robot Competition is an international contest sponsored by the International League of Underwater Robots (ILUR) supported by both the UNESCO Industry-University Cooperative Education &amp; the Ministry of Education’s Innovative Education Method Steering Committee.&lt;/p&gt;
 &lt;p&gt;
@@ -425,9 +610,9 @@ three different runs. Below each VSR is its average performance.&lt;/p&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./ff.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p style=&#34;text-align:justify&#34;;&gt;In the 2D Simulation League, teams of autonomous software programs (called agents) play in a two-dimensional virtual playground represented by a central server, called URWPGSim2DServer. This server knows everything about the game, i.e. the current position of all fishes and the physics. The game further relies on communication between the server and each agent. Each fish receives relative and noisy input from its virtual sensors and performs some basic commands to influence its environment.&lt;/p&gt;
+&lt;p style=&#34;text-align:justify&#34;;&gt;In the 2D Simulation League, teams of autonomous software programs play in a two-dimensional virtual playground represented by a central server, called URWPGSim2DServer. This server knows everything about the game, i.e. the current position of all fishes and the physics. The game further relies on communication between the server and each agent. Each fish receives relative and noisy input from its virtual sensors and performs some basic commands to influence its environment.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Survival Challenge&lt;/strong&gt;&lt;/p&gt;
-&lt;p style=&#34;text-align:justify&#34;;&gt;In this contest, we first control the light blue simulated fish to attack the yellow simulated fishes controlled by the defender, while the defender can also use a dark blue simulated fish to block the attacker&#39;s attack. The game changes the side after 5 miniutes. We won the first prize in IURC 2017 and IURC 2018.&lt;/p&gt;
+&lt;p style=&#34;text-align:justify&#34;;&gt;In this contest, we first control the light blue simulated fish to attack the yellow simulated fishes controlled by the defender (the other team), while the defender can also use a dark blue simulated fish to block the attacker&#39;s attack. The game changes the side after 5 miniutes. We won the first prize in IURC 2017 and IURC 2018.&lt;/p&gt;
 &lt;p&gt;Here is a short video&lt;/p&gt;
 
 
@@ -466,6 +651,34 @@ three different runs. Below each VSR is its average performance.&lt;/p&gt;
 
 &lt;video controls  &gt;
   &lt;source src=&#34;https://Yuxing-Wang-THU.github.io/media/swimmer.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A wearable hand rehabilitation robot</title>
+      <link>https://Yuxing-Wang-THU.github.io/project/hand/</link>
+      <pubDate>Thu, 25 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://Yuxing-Wang-THU.github.io/project/hand/</guid>
+      <description>&lt;p style=&#34;text-align:justify&#34;;&gt; In this project, we design a wearable hand rehabilitation robot, which consists of a data glove, a manipulator and an APP. This system allows the patient to use a healthy hand to operate the rehabilitation glove, thus controlling the robot to drive the disabled hand to reproduce its movements. At the same time, combined with the rehabilitation program customized by professional physicians integrated into the APP, the system can provide corresponding rehabilitation training for different degrees of disability.&lt;/p&gt;
+&lt;p&gt;Here is a short vedio&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;https://Yuxing-Wang-THU.github.io/media/my_video.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 </description>
     </item>
