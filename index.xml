@@ -612,7 +612,7 @@ $11 \times 11$ design space, $121$ voxels.
 &lt;/p&gt;
 &lt;p style=&#34;text-align:justify&#34;;&gt;In the 2D Simulation League, teams of autonomous software programs play in a two-dimensional virtual playground represented by a central server, called URWPGSim2DServer. This server knows everything about the game, i.e. the current position of all fishes and the physics. The game further relies on communication between the server and each agent. Each fish receives relative and noisy input from its virtual sensors and performs some basic commands to influence its environment.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Survival Challenge&lt;/strong&gt;&lt;/p&gt;
-&lt;p style=&#34;text-align:justify&#34;;&gt;In this contest, we first control the light blue simulated fish to attack the yellow simulated fishes controlled by the defender (the other team), while the defender can also use a dark blue simulated fish to block the attacker&#39;s attack. The game changes the side after 5 miniutes. We won the first prize in IURC 2017 and IURC 2018.&lt;/p&gt;
+&lt;p style=&#34;text-align:justify&#34;;&gt;In this contest, we first control the light blue simulated fish to attack the yellow simulated fishes controlled by the defender (the other team), while the defender can also use a dark blue simulated fish to block the attacker&#39;s attack. The game changes the side after 5 minutes. We won the first prize in IURC 2017 and IURC 2018.&lt;/p&gt;
 &lt;p&gt;Here is a short video&lt;/p&gt;
 
 
