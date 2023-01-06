@@ -287,7 +287,7 @@ $11 \times 11$ design space, $121$ voxels.
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./5.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;[1] &lt;a href=&#34;https://github.com/Yuxing-Wang-THU/ModularEvoGym&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ModularEvoGym (Coming Soon)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[1] &lt;a href=&#34;https://github.com/Yuxing-Wang-THU/ModularEvoGym&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ModularEvoGym&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;[2] &lt;a href=&#34;https://evolutiongym.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Evolution Gym: A Large-Scale Benchmark for Evolving Soft Robots&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;[3] &lt;a href=&#34;https://arxiv.org/abs/1706.03762&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Attention Is All You Need&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;[4] &lt;a href=&#34;https://arxiv.org/abs/1707.06347&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Proximal Policy Optimization Algorithms&lt;/a&gt;&lt;/p&gt;
@@ -383,7 +383,8 @@ $11 \times 11$ design space, $121$ voxels.
       <link>https://Yuxing-Wang-THU.github.io/project/evolutionary_arts/</link>
       <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://Yuxing-Wang-THU.github.io/project/evolutionary_arts/</guid>
-      <description>&lt;p style=&#34;text-align:justify&#34;;&gt;Using Compositional Pattern-Producing Network(CPPN) to generate pictures, very funny. (here is the code: https://github.com/Yuxing-Wang-THU/Evolutionary-Arts)&lt;/p&gt;
+      <description>&lt;p style=&#34;text-align:justify&#34;;&gt;Using Compositional Pattern-Producing Network(CPPN) to generate pictures, very funny.&lt;/p&gt;
+&lt;p&gt;Here is the &lt;a href=&#34;https://github.com/Yuxing-Wang-THU/Evolutionary-Arts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -613,7 +614,7 @@ $11 \times 11$ design space, $121$ voxels.
 &lt;p style=&#34;text-align:justify&#34;;&gt;In the 2D Simulation League, teams of autonomous software programs play in a two-dimensional virtual playground represented by a central server, called URWPGSim2DServer. This server knows everything about the game, i.e. the current position of all fishes and the physics. The game further relies on communication between the server and each agent. Each fish receives relative and noisy input from its virtual sensors and performs some basic commands to influence its environment.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Survival Challenge&lt;/strong&gt;&lt;/p&gt;
 &lt;p style=&#34;text-align:justify&#34;;&gt;In this contest, we first control the light blue simulated fish to attack the yellow simulated fishes controlled by the defender (the other team), while the defender can also use a dark blue simulated fish to block the attacker&#39;s attack. The game changes the side after 5 minutes. We won the first prize in IURC 2017 and IURC 2018.&lt;/p&gt;
-&lt;p&gt;Here is a short video&lt;/p&gt;
+&lt;p&gt;A short video&lt;/p&gt;
 
 
 
@@ -661,7 +662,7 @@ $11 \times 11$ design space, $121$ voxels.
       <pubDate>Thu, 25 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://Yuxing-Wang-THU.github.io/project/hand/</guid>
       <description>&lt;p style=&#34;text-align:justify&#34;;&gt; In this project, we design a wearable hand rehabilitation robot, which consists of a data glove, a manipulator and an APP. This system allows the patient to use a healthy hand to operate the rehabilitation glove, thus controlling the robot to drive the disabled hand to reproduce its movements. At the same time, combined with the rehabilitation program customized by professional physicians integrated into the APP, the system can provide corresponding rehabilitation training for different degrees of disability.&lt;/p&gt;
-&lt;p&gt;Here is a short vedio&lt;/p&gt;
+&lt;p&gt;A short vedio&lt;/p&gt;
 
 
 
