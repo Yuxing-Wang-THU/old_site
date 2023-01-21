@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://Yuxing-Wang-THU.github.io/publication-type/3/</loc>
+    <loc>https://Yuxing-Wang-THU.github.io/publication-type/1/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://Yuxing-Wang-THU.github.io/publication/cuco/</loc>
@@ -22,6 +22,9 @@
   </url><url>
     <loc>https://Yuxing-Wang-THU.github.io/project/</loc>
     <lastmod>2022-09-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Yuxing-Wang-THU.github.io/publication-type/3/</loc>
+    <lastmod>2022-05-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://Yuxing-Wang-THU.github.io/publication/dacorl/</loc>
     <lastmod>2022-05-04T00:00:00+00:00</lastmod>

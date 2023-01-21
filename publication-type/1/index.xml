@@ -1,33 +1,86 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 | Academic</title>
-    <link>https://yuxing-wang-thu.github.io/publication-type/1/</link>
-      <atom:link href="https://yuxing-wang-thu.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <title>1 | Yuxing Wang</title>
+    <link>https://Yuxing-Wang-THU.github.io/publication-type/1/</link>
+      <atom:link href="https://Yuxing-Wang-THU.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yuxing-wang-thu.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://Yuxing-Wang-THU.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
-      <link>https://yuxing-wang-thu.github.io/publication-type/1/</link>
+      <link>https://Yuxing-Wang-THU.github.io/publication-type/1/</link>
     </image>
     
     <item>
-      <title>From Big Data Based Price Discrimination to Privacy Leakage: Ethical Analysis and Reflections on Privacy Issues from the Perspective of Hardware and Software</title>
-      <link>https://yuxing-wang-thu.github.io/publication/example/</link>
-      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://yuxing-wang-thu.github.io/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+      <title>[ICLR 2023] Curriculum-based Co-design of Morphology and Control of Voxel-based Soft Robots</title>
+      <link>https://Yuxing-Wang-THU.github.io/publication/cuco/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://Yuxing-Wang-THU.github.io/publication/cuco/</guid>
+      <description>&lt;p style=&#34;text-align:justify&#34;;&gt; Visualization of converged morphologies of all methods in the Pusher environment across
+three different runs. Below each VSR is its average performance.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./CuCo2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p style=&#34;text-align:justify&#34;;&gt; Visualization of CuCo’s learning process in UpStepper and Pusher. The x-axis represents the number of policy iterations and the y-axis represents the curriculum. We show morphologies in the stage from left to right.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./CuCo3.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Here is a short video&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;https://Yuxing-Wang-THU.github.io/media/video.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
 </description>
     </item>
     
