@@ -23,14 +23,14 @@
   
   
 
-  <meta name="author" content="Yuxing Wang (王昱兴)" />
+  <meta name="author" content="Yuxing Wang" />
 
   
   
   
     
   
-  <meta name="description" content="&lt;p style=&#34;text-align:justify&#34;;&gt; A key challenge of continual reinforcement learning (CRL) in dynamic environments is to promptly adapt the RL agent&#39;s behavior as the environment changes over its lifetime, while minimizing the catastrophic forgetting of the learned information. To address this challenge, in this article, we propose DaCoRL, i.e., dynamics-adaptive continual RL. DaCoRL learns a context-conditioned policy using progressive contextualization, which incrementally clusters a stream of stationary tasks in the dynamic environment into a series of contexts and opts for an expandable multihead neural network to approximate the policy. Specifically, we define a set of tasks with similar dynamics as an environmental context and formalize context inference as a procedure of online Bayesian infinite Gaussian mixture clustering on environment features, resorting to online Bayesian inference to infer the posterior distribution over contexts. Under the assumption of a Chinese restaurant process prior, this technique can accurately classify the current task as a previously seen context or instantiate a new context as needed without relying on any external indicator to signal environmental changes in advance. Furthermore, we employ an expandable multihead neural network whose output layer is synchronously expanded with the newly instantiated context, and a knowledge distillation regularization term for retaining the performance on learned tasks. As a general framework that can be coupled with various deep RL algorithms, DaCoRL features consistent superiority over existing methods in terms of the stability, overall performance and generalization ability, as verified by extensive experiments on several robot navigation and MuJoCo locomotion tasks.&lt;/p&gt;" />
+  <meta name="description" content="IEEE Transactions on Neural Networks and Learning Systems (&lt;b&gt;TNNLS&lt;/b&gt;)&lt;br&gt; DaCoRL learns a context-conditioned policy using progressive contextualization, which incrementally clusters a stream of stationary tasks in the dynamic environment into a series of contexts. " />
 
   
   <link rel="alternate" hreflang="en-us" href="https://Yuxing-Wang-THU.github.io/publication/dacorl/" />
@@ -241,9 +241,8 @@
   
     
       
-      
-      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather%7CRoboto+Mono&display=swap">
-      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap" media="print" onload="this.media='all'">
     
   
 
@@ -252,7 +251,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.668e43f5f9e46f4edf5f2979d477be82.css" />
+  <link rel="stylesheet" href="/css/wowchemy.c2585ef1b4893c5e7c03fb8a39e1e71e.css" />
 
   
 
@@ -277,8 +276,8 @@
     <link rel="manifest" href="/manifest.webmanifest" />
   
 
-  <link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_3.png" />
+  <link rel="icon" type="image/png" href="/media/icon_hu03acb205fb0b40f635b48bbdfaf3118f_242332_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu03acb205fb0b40f635b48bbdfaf3118f_242332_180x180_fill_lanczos_center_3.png" />
 
   <link rel="canonical" href="https://Yuxing-Wang-THU.github.io/publication/dacorl/" />
 
@@ -297,8 +296,8 @@
   
   <meta property="og:site_name" content="Yuxing Wang" />
   <meta property="og:url" content="https://Yuxing-Wang-THU.github.io/publication/dacorl/" />
-  <meta property="og:title" content="[TNNLS] Dynamics-Adaptive Continual Reinforcement Learning via Progressive Contextualization | Yuxing Wang" />
-  <meta property="og:description" content="&lt;p style=&#34;text-align:justify&#34;;&gt; A key challenge of continual reinforcement learning (CRL) in dynamic environments is to promptly adapt the RL agent&#39;s behavior as the environment changes over its lifetime, while minimizing the catastrophic forgetting of the learned information. To address this challenge, in this article, we propose DaCoRL, i.e., dynamics-adaptive continual RL. DaCoRL learns a context-conditioned policy using progressive contextualization, which incrementally clusters a stream of stationary tasks in the dynamic environment into a series of contexts and opts for an expandable multihead neural network to approximate the policy. Specifically, we define a set of tasks with similar dynamics as an environmental context and formalize context inference as a procedure of online Bayesian infinite Gaussian mixture clustering on environment features, resorting to online Bayesian inference to infer the posterior distribution over contexts. Under the assumption of a Chinese restaurant process prior, this technique can accurately classify the current task as a previously seen context or instantiate a new context as needed without relying on any external indicator to signal environmental changes in advance. Furthermore, we employ an expandable multihead neural network whose output layer is synchronously expanded with the newly instantiated context, and a knowledge distillation regularization term for retaining the performance on learned tasks. As a general framework that can be coupled with various deep RL algorithms, DaCoRL features consistent superiority over existing methods in terms of the stability, overall performance and generalization ability, as verified by extensive experiments on several robot navigation and MuJoCo locomotion tasks.&lt;/p&gt;" /><meta property="og:image" content="https://Yuxing-Wang-THU.github.io/publication/dacorl/featured.jpg" />
+  <meta property="og:title" content="Dynamics-Adaptive Continual Reinforcement Learning via Progressive Contextualization | Yuxing Wang" />
+  <meta property="og:description" content="IEEE Transactions on Neural Networks and Learning Systems (&lt;b&gt;TNNLS&lt;/b&gt;)&lt;br&gt; DaCoRL learns a context-conditioned policy using progressive contextualization, which incrementally clusters a stream of stationary tasks in the dynamic environment into a series of contexts. " /><meta property="og:image" content="https://Yuxing-Wang-THU.github.io/publication/dacorl/featured.jpg" />
     <meta property="twitter:image" content="https://Yuxing-Wang-THU.github.io/publication/dacorl/featured.jpg" /><meta property="og:locale" content="en-us" />
   
     
@@ -331,7 +330,7 @@
     "@type": "WebPage",
     "@id": "https://Yuxing-Wang-THU.github.io/publication/dacorl/"
   },
-  "headline": "[TNNLS] Dynamics-Adaptive Continual Reinforcement Learning via Progressive Contextualization",
+  "headline": "Dynamics-Adaptive Continual Reinforcement Learning via Progressive Contextualization",
   
   "image": [
     "https://Yuxing-Wang-THU.github.io/publication/dacorl/featured.jpg"
@@ -342,7 +341,7 @@
   
   "author": {
     "@type": "Person",
-    "name": "Tiantian Zhang, Zichuan Lin, Yuxing Wang, Deheng Ye, Qiang fu, Xueqian Wang, Xiu Li, Bo Yuan"
+    "name": "Tiantian Zhang"
   },
   
   "publisher": {
@@ -350,10 +349,10 @@
     "name": "Yuxing Wang",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://Yuxing-Wang-THU.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
+      "url": "https://Yuxing-Wang-THU.github.io/media/icon_hu03acb205fb0b40f635b48bbdfaf3118f_242332_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "\u003cp style=\"text-align:justify\";\u003e A key challenge of continual reinforcement learning (CRL) in dynamic environments is to promptly adapt the RL agent's behavior as the environment changes over its lifetime, while minimizing the catastrophic forgetting of the learned information. To address this challenge, in this article, we propose DaCoRL, i.e., dynamics-adaptive continual RL. DaCoRL learns a context-conditioned policy using progressive contextualization, which incrementally clusters a stream of stationary tasks in the dynamic environment into a series of contexts and opts for an expandable multihead neural network to approximate the policy. Specifically, we define a set of tasks with similar dynamics as an environmental context and formalize context inference as a procedure of online Bayesian infinite Gaussian mixture clustering on environment features, resorting to online Bayesian inference to infer the posterior distribution over contexts. Under the assumption of a Chinese restaurant process prior, this technique can accurately classify the current task as a previously seen context or instantiate a new context as needed without relying on any external indicator to signal environmental changes in advance. Furthermore, we employ an expandable multihead neural network whose output layer is synchronously expanded with the newly instantiated context, and a knowledge distillation regularization term for retaining the performance on learned tasks. As a general framework that can be coupled with various deep RL algorithms, DaCoRL features consistent superiority over existing methods in terms of the stability, overall performance and generalization ability, as verified by extensive experiments on several robot navigation and MuJoCo locomotion tasks.\u003c/p\u003e"
+  "description": "IEEE Transactions on Neural Networks and Learning Systems (\u003cb\u003eTNNLS\u003c/b\u003e)\u003cbr\u003e DaCoRL learns a context-conditioned policy using progressive contextualization, which incrementally clusters a stream of stationary tasks in the dynamic environment into a series of contexts. "
 }
 </script>
 
@@ -369,7 +368,7 @@
 
 
 
-  <title>[TNNLS] Dynamics-Adaptive Continual Reinforcement Learning via Progressive Contextualization | Yuxing Wang</title>
+  <title>Dynamics-Adaptive Continual Reinforcement Learning via Progressive Contextualization | Yuxing Wang</title>
 </head>
 
 
@@ -446,6 +445,10 @@
   <div class="container-xl">
 
     
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Yuxing Wang</a>
+    </div>
+    
 
     
     <button type="button" class="navbar-toggler" data-toggle="collapse"
@@ -455,10 +458,14 @@
     
 
     
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Yuxing Wang</a>
+    </div>
+    
 
     
     
-    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
 
       
       <ul class="navbar-nav d-md-inline-flex">
@@ -760,7 +767,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>[TNNLS] Dynamics-Adaptive Continual Reinforcement Learning via Progressive Contextualization</h1>
+  <h1>Dynamics-Adaptive Continual Reinforcement Learning via Progressive Contextualization</h1>
 
   
 
@@ -777,7 +784,14 @@
     
 
   <span >
-      Tiantian Zhang, Zichuan Lin, Yuxing Wang, Deheng Ye, Qiang fu, Xueqian Wang, Xiu Li, Bo Yuan</span>
+      Tiantian Zhang</span>, <span >
+      Zichuan Lin</span>, <span class="author-highlighted">
+      Yuxing Wang</span>, <span >
+      Deheng Ye</span>, <span >
+      Qiang FU</span>, <span >
+      Xueqian Wang</span>, <span >
+      Xiu Li</span>, <span >
+      Bo Yuan</span>
   </div>
   
   
@@ -929,7 +943,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://Yuxing-Wang-THU.github.io/publication/dacorl/&amp;text=[TNNLS]%20Dynamics-Adaptive%20Continual%20Reinforcement%20Learning%20via%20Progressive%20Contextualization" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://Yuxing-Wang-THU.github.io/publication/dacorl/&amp;text=Dynamics-Adaptive%20Continual%20Reinforcement%20Learning%20via%20Progressive%20Contextualization" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -942,7 +956,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://Yuxing-Wang-THU.github.io/publication/dacorl/&amp;t=[TNNLS]%20Dynamics-Adaptive%20Continual%20Reinforcement%20Learning%20via%20Progressive%20Contextualization" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://Yuxing-Wang-THU.github.io/publication/dacorl/&amp;t=Dynamics-Adaptive%20Continual%20Reinforcement%20Learning%20via%20Progressive%20Contextualization" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -955,7 +969,7 @@
       
       
       <li>
-        <a href="mailto:?subject=[TNNLS]%20Dynamics-Adaptive%20Continual%20Reinforcement%20Learning%20via%20Progressive%20Contextualization&amp;body=https://Yuxing-Wang-THU.github.io/publication/dacorl/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Dynamics-Adaptive%20Continual%20Reinforcement%20Learning%20via%20Progressive%20Contextualization&amp;body=https://Yuxing-Wang-THU.github.io/publication/dacorl/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -968,7 +982,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://Yuxing-Wang-THU.github.io/publication/dacorl/&amp;title=[TNNLS]%20Dynamics-Adaptive%20Continual%20Reinforcement%20Learning%20via%20Progressive%20Contextualization" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://Yuxing-Wang-THU.github.io/publication/dacorl/&amp;title=Dynamics-Adaptive%20Continual%20Reinforcement%20Learning%20via%20Progressive%20Contextualization" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -981,7 +995,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=[TNNLS]%20Dynamics-Adaptive%20Continual%20Reinforcement%20Learning%20via%20Progressive%20Contextualization%20https://Yuxing-Wang-THU.github.io/publication/dacorl/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=Dynamics-Adaptive%20Continual%20Reinforcement%20Learning%20via%20Progressive%20Contextualization%20https://Yuxing-Wang-THU.github.io/publication/dacorl/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -994,7 +1008,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://Yuxing-Wang-THU.github.io/publication/dacorl/&amp;title=[TNNLS]%20Dynamics-Adaptive%20Continual%20Reinforcement%20Learning%20via%20Progressive%20Contextualization" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://Yuxing-Wang-THU.github.io/publication/dacorl/&amp;title=Dynamics-Adaptive%20Continual%20Reinforcement%20Learning%20via%20Progressive%20Contextualization" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1013,6 +1027,119 @@
 
 
   
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://Yuxing-Wang-THU.github.io/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu82655c7276786ff1d4c2d75400c62365_33868_270x270_fill_q75_lanczos_center.jpg" alt="Yuxing Wang"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://Yuxing-Wang-THU.github.io/">Yuxing Wang</a></h5>
+      <h6 class="card-subtitle">王昱兴 | Master Student</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=ac-6jfMAAAAJ&amp;hl=zh-CN" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/Yuxing-Wang-THU" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/uploads/YW_Resume.pdf" >
+        <i class="ai ai-cv"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
   
     
 
@@ -1059,6 +1186,10 @@
 
   
 
+  
+  <p class="powered-by">
+    © 2023 Yuxing Wang
+  </p>
   
 
   

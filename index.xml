@@ -5,15 +5,15 @@
     <link>https://Yuxing-Wang-THU.github.io/</link>
       <atom:link href="https://Yuxing-Wang-THU.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Yuxing Wang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Yuxing Wang</copyright><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://Yuxing-Wang-THU.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://Yuxing-Wang-THU.github.io/media/icon_hu03acb205fb0b40f635b48bbdfaf3118f_242332_512x512_fill_lanczos_center_3.png</url>
       <title>Yuxing Wang</title>
       <link>https://Yuxing-Wang-THU.github.io/</link>
     </image>
     
     <item>
-      <title>[ICLR 2023] Curriculum-based Co-design of Morphology and Control of Voxel-based Soft Robots</title>
+      <title>Curriculum-based Co-design of Morphology and Control of Voxel-based Soft Robots</title>
       <link>https://Yuxing-Wang-THU.github.io/publication/cuco/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://Yuxing-Wang-THU.github.io/publication/cuco/</guid>
@@ -298,7 +298,7 @@ $11 \times 11$ design space, $121$ voxels.
     </item>
     
     <item>
-      <title>[TNNLS] Dynamics-Adaptive Continual Reinforcement Learning via Progressive Contextualization</title>
+      <title>Dynamics-Adaptive Continual Reinforcement Learning via Progressive Contextualization</title>
       <link>https://Yuxing-Wang-THU.github.io/publication/dacorl/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
       <guid>https://Yuxing-Wang-THU.github.io/publication/dacorl/</guid>
@@ -306,7 +306,7 @@ $11 \times 11$ design space, $121$ voxels.
     </item>
     
     <item>
-      <title>[Information Sciences] A Surrogate-Assisted Controller for Expensive Evolutionary Reinforcement Learning</title>
+      <title>A Surrogate-Assisted Controller for Expensive Evolutionary Reinforcement Learning</title>
       <link>https://Yuxing-Wang-THU.github.io/publication/serl/</link>
       <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://Yuxing-Wang-THU.github.io/publication/serl/</guid>
